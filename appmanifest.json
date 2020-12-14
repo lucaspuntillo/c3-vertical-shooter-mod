@@ -1,11 +1,11 @@
 {
-  "name": "Space Shooter",
-  "short_name": "SSHOOTER",
-  "theme_color": "#000000",
-  "background_color": "#ffffff",
-  "display": "minimal-ui",
-  "scope": "/",
-  "start_url": "/index.html"
+	"name": "Space Shooter",
+  	"short_name": "SSHOOTER",
+  	"theme_color": "#000000",
+  	"background_color": "#ffffff",
+  	"display": "minimal-ui",
+  	"scope": "/",
+ 	"start_url": "/index.html"
 	"icons": [
 		{
 			"src": "icons/icon-16.png",
