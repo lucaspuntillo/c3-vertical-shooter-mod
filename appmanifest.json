@@ -1,36 +1,9 @@
 {
-	"name": "Space Shooter",
-  	"short_name": "SSHOOTER",
-  	"theme_color": "#000000",
-  	"background_color": "#ffffff",
-  	"display": "minimal-ui",
-  	"scope": "/",
- 	"start_url": "/index.html"
-	"icons": [
-		{
-			"src": "icons/icon-16.png",
-			"sizes": "16x16",
-			"type": "image/png"
-		},
-		{
-			"src": "icons/icon-32.png",
-			"sizes": "32x32",
-			"type": "image/png"
-		},
-		{
-			"src": "icons/icon-114.png",
-			"sizes": "114x114",
-			"type": "image/png"
-		},
-		{
-			"src": "icons/icon-128.png",
-			"sizes": "128x128",
-			"type": "image/png"
-		},
-		{
-			"src": "icons/icon-256.png",
-			"sizes": "256x256",
-			"type": "image/png"
-		}
-	]
+  "name": "Space Shooter",
+  "short_name": "SSHOOTER",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "display": "minimal-ui",
+  "scope": "/",
+  "start_url": "/index.html"
 }
