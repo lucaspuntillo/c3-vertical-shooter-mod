@@ -1,11 +1,11 @@
 {
-	"name": "Vertical space shooter template",
-	"short_name": "Vertical space shooter template",
-	"description": "",
-	"start_url": "index.html",
-	"display": "fullscreen",
-	"orientation": "any",
-	"background_color": "#ffffff",
+  "name": "Space Shooter",
+  "short_name": "SSHOOTER",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "display": "minimal-ui",
+  "scope": "/",
+  "start_url": "/index.html"
 	"icons": [
 		{
 			"src": "icons/icon-16.png",
